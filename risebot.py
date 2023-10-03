@@ -10,7 +10,7 @@ import youtube_dl
 import pafy
 from discord.ext import commands
 from discord.ext.commands import bot
-from keep_alive import keep_alive
+from alive import keep_alive
 import asyncio
 import os
 from replit import db
